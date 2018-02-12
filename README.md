@@ -1,0 +1,1 @@
+Simple HTML CSS design to practice git and GitHub
